@@ -1,0 +1,5 @@
+{
+  "name": "GTC Trading Platform",
+  "description": "A sophisticated financial trading platform interface for viewing market data, analyzing charts, and managing trades. This application provides a real-time feel with a detailed UI for an immersive trading experience.",
+  "requestFramePermissions": []
+}
